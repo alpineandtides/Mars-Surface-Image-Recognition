@@ -1,4 +1,4 @@
-AI for Beginners: NASA Mars Surface Image Recognition with Pytorch Lightning.  We will predict the images from Mars and the rover using Google's EfficientNet Convolutional Neural Network.
+AI for Beginners: NASA Mars Surface Image Recognition with Pytorch Lightning.  We will predict the images from Mars and the rover using Google's EfficientNet Convolutional Neural Network.  The code can be found in the mars-surface-data-with-pytorch-lightning.ipynb Jupyter notebook file in this repository.
 
 ![NASA_logo_resize](https://github.com/user-attachments/assets/a1816068-3667-414a-85ae-da1338bd47bb)
 
